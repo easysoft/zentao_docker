@@ -26,6 +26,8 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
+      args:
+        VERSION: ${TAG}
     image: hub.qucheng.com/app/zentao:${TAG}
     container_name: zentao
     ports:
