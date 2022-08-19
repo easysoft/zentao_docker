@@ -1,3 +1,5 @@
+该仓库已经归档，请查看最新的源码：https://github.com/quicklyon/zentao-docker
+
 # 禅道官方Docker镜像
 
 ## 快速参考
